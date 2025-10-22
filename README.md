@@ -26,7 +26,7 @@ A partir de tres fuentes principales —**pobreza, criminalidad en escuelas y re
 ---
 
 ## Metodología
-1. **Importación de datos desde HDFS y fuentes públicas (Open Data NYC).**  
+1. **Importación de datos de fuentes públicas (Open Data NYC).**  
 2. **Preprocesamiento y limpieza de datos:** manejo de nulos, formatos, unión de datasets y normalización.  
 3. **Análisis exploratorio (EDA):** visualizaciones y estadísticas descriptivas por distrito y variable.  
 4. **Modelado y correlación:** uso de regresiones y correlaciones para medir la relación entre pobreza, crimen y arrestos.  
@@ -38,8 +38,7 @@ A partir de tres fuentes principales —**pobreza, criminalidad en escuelas y re
 - **Python 3.10+**
 - **PySpark / MLlib**
 - **Pandas / NumPy / Matplotlib / Seaborn**
-- **Keras / TensorFlow (para modelos predictivos)**
-- **Hadoop HDFS** (almacenamiento distribuido)
+- **Keras / TensorFlow (para modelos predictivos) (próximamente)**
 - **Jupyter Notebooks**
 
 ---
@@ -62,7 +61,7 @@ A partir de tres fuentes principales —**pobreza, criminalidad en escuelas y re
 ## Universidad
 **Pontificia Universidad Javeriana**  
 Facultad de Ingeniería — Departamento de Ingeniería de Sistemas  
-**Curso:** Procesamiento de Big Data  
+**Curso:** Procesamiento de Datos a Gran Escala  
 **Periodo:** 2025-2
 
 ---
