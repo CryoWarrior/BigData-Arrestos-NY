@@ -69,7 +69,7 @@ Facultad de Ingeniería — Departamento de Ingeniería de Sistemas
 ## Referencias
 - [Open Data NYC](https://opendata.cityofnewyork.us/)  
 - [NYPD Arrest Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/arrest.page)  
-- [Department of Education NYC](https://infohub.nyced.org/reports)  
+- [Department of Education NYC]  
 - Artículos académicos sobre desigualdad y criminalidad urbana.
 
 ---
