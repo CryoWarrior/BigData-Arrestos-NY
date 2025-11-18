@@ -12,17 +12,23 @@ A partir de tres fuentes principales —**pobreza, criminalidad en escuelas y re
 - Evaluar la relación entre los niveles de pobreza y el número de arrestos.  
 - Explorar si las zonas con mayor índice de criminalidad escolar presentan también más arrestos.  
 - Identificar patrones y correlaciones significativas que puedan ayudar a comprender las causas del incremento de arrestos.
-
+- Evaluar si los distritos con mayor pobreza presentan también más arrestos.
+- Analizar la relación entre criminalidad escolar y acciones policiales.
+- Identificar factores sociodemográficos que determinan vulnerabilidad.
+- Construir modelos predictivos que permitan detectar perfiles de riesgo.
+-   Generar insumos para la toma de decisiones basadas en evidencia pública.
 ---
 
 ## Estructura del repositorio
 
 | Archivo | Descripción |
 |----------|--------------|
-| `Proyecto_Arrestos.ipynb` | Contiene el análisis de datos de arrestos en Nueva York, incluyendo estadísticas y visualizaciones por distrito. |
-| `Proyecto_Escuelas.ipynb` | Analiza los datos de criminalidad y seguridad en escuelas de Nueva York. |
-| `Proyecto_Pobreza.ipynb` | Examina la distribución de pobreza, educación y condiciones socioeconómicas en los distintos distritos. |
-
+| `Proyecto_Arrestos.ipynb` | Análisis, visualización y modelos relacionados con arrestos. |
+| `Proyecto_Escuelas.ipynb` | Análisis de criminalidad escolar y clustering.|
+| `Proyecto_Pobreza.ipynb` | Procesamiento de datos de pobreza, correlación y modelo MLP. |
+| `Proyecto_Preguntas_Clave.ipynb` | Análisis exploratorio y respuestas a las preguntas iniciales. |
+| `Presentación - Análisis de Arrestos en NYC.pdf` | Presentación final del proyecto. |
+| `Entrega II Proyecto Procesamiento de Datos.pdf` | Documento completo de análisis, metodología y conclusiones.|
 ---
 
 ## Metodología
@@ -41,6 +47,25 @@ A partir de tres fuentes principales —**pobreza, criminalidad en escuelas y re
 - **Keras / TensorFlow (para modelos predictivos) (próximamente)**
 - **Jupyter Notebooks**
 
+---
+
+## Modelos aplicados
+
+### K-Means (Clustering)
+- Agrupa escuelas según intensidad y tipo de incidentes.
+- Identifica perfiles de riesgo escolar.
+- Permite visualizar zonas críticas asociadas a vulnerabilidad social.
+
+### Random Forest (Clasificación)
+- Maneja datos complejos sin suposiciones estrictas.
+- Identifica las variables que más influyen en los arrestos.
+- Ofrece interpretabilidad mediante *feature importance*.
+
+### Multilayer Perceptron – Deep Learning
+- Modelo supervisado para predecir pobreza.
+- Más del **99.6% de accuracy y F1-Score**.
+- Aprende relaciones no lineales entre ingresos, vivienda, educación y estructura familiar.
+- Robusto frente a cambios de arquitectura y parámetros.
 ---
 
 ## Resultados esperados
