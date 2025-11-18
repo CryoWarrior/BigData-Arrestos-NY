@@ -1,0 +1,203 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <bib:Article rdf:about="#item_2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stenkamp</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rempel</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1"/>
+        <dc:title>Racial and Neighborhood Disparities in New York City Criminal Summons Practices</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://datacollaborativeforjustice.org/wp-content/uploads/2024/02/Criminal_Summons_Disparities_Report.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 03:58:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>2024-CCRB-Annual-Report.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nyc.gov/assets/ccrb/downloads/pdf/policy_pdf/annual_bi-annual/2024-CCRB-Annual-Report.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 03:58:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>THE NEW YORK CITY POLICE DEPARTMENT</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bratton</foaf:surname>
+                        <foaf:givenName>William J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>BROKEN WINDOWS AND QUALITY-OF-LIFE POLICING IN NEW YORK CITY</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/qol.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 03:59:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>03-22-NYSAC.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.usccr.gov/files/pubs/2018/03-22-NYSAC.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:00:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.nysenate.gov/legislation/laws/PEN/P3TJA155">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>NYS Open Legislation | NYSenate.gov</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nysenate.gov/legislation/laws/PEN/P3TJA155</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:00:47</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>NYS Open Legislation | NYSenate.gov</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nysenate.gov/legislation/laws/PEN/P3TJA155</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:00:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://docs.aws.amazon.com/es_es/sagemaker/latest/dg/algo-kmeans-tech-notes.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>Funcionamiento de la agrupación en clústeres de k-means - Amazon SageMaker AI</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://docs.aws.amazon.com/es_es/sagemaker/latest/dg/algo-kmeans-tech-notes.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:01:10</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Funcionamiento de la agrupación en clústeres de k-means - Amazon SageMaker AI</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://docs.aws.amazon.com/es_es/sagemaker/latest/dg/algo-kmeans-tech-notes.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:01:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ibm.com/mx-es/think/topics/k-means-clustering">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>¿Qué es la agrupación en clústeres k-means? | IBM</dc:title>
+        <dcterms:abstract>El agrupamiento de medias K es un algoritmo de aprendizaje no supervisado utilizado para la agrupación en clústeres de datos, que reúne puntos de datos no etiquetados en grupos o clústeres.</dcterms:abstract>
+        <dc:date>2024-06-26T00:00:00.000</dc:date>
+        <z:language>es</z:language>
+        <z:shortTitle>¿Qué es la agrupación en clústeres k-means?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ibm.com/mx-es/think/topics/k-means-clustering</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:01:31</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://longisland.news12.com/leaked-report-from-nypd-school-safety-division-reveals-schools-with-biggest-crime-issues">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>News 12 - Long Island</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Leaked NYPD report reveals schools with biggest crime issues</dc:title>
+        <dcterms:abstract>The report shows schools with the most total crimes, violent crimes, and seven major crimes.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://longisland.news12.com/leaked-report-from-nypd-school-safety-division-reveals-schools-with-biggest-crime-issues</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:02:43</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://longisland.news12.com/leaked-report-from-nypd-school-safety-division-reveals-schools-with-biggest-crime-issues</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-11-18 04:02:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
